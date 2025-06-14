@@ -1,0 +1,33 @@
+# Site settings
+title: wayne4s
+email: xwminyang@gmail.com
+description: Blog
+
+
+github_username: wayne4s
+permalink: /:year/:month/:day/:title/
+# this is the url root of the view source link on the footer page.
+viewsourceroot: https://github.com/wayne4s/wayne4s.github.io/blob/master/
+# this is the url root of the create page link on the footer page.
+newsourceroot: https://github.com/wayne4s/wayne4s.github.io/new/master
+# #########################################
+# # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
+# duoshuo_shortname: wayne
+# duoshuo_url: "http://wayne.duoshuo.com"
+# disqus.com commenting system. please note that it is exclusive with duoshuo.com
+#disqus_shortname: wayne
+#disqus_url: "http://wayne.github.io"
+#########################################
+
+#Google Analytics
+# google_analytics: xxxx
+
+# Build settings
+markdown: kramdown
+
+# highlight
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false
+
+port: 4001
