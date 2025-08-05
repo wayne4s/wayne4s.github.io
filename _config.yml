@@ -1,0 +1,44 @@
+# Page configuration
+title: Homepage
+title_separator: "-"
+locale: "en-US"
+url: "https://wayne4s.github.io"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-include-cache
+
+# Themes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"  # Color scheme configuration
+
+# Include HTML Files Built by Sphinx (Needed by pages/docs/)
+include: ["_build", "_static"]
+
+# Author
+lab: "wayne4s"
+github_username: "wayne4s"
+repository: wayne4s/wayne4s.github.io
+
+# Site Setup
+atom_feed:
+  hide: true  # Hides RSS feed button
+footer:
+  links:
+    - label: "HKUST"
+      icon: "fas fa-fw fa-university"
+      url: "https://hkust.edu.hk/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wayne4s"
+
+# Page setup
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+      sidebar:
+        nav: "docs"
