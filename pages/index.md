@@ -45,7 +45,7 @@ As artificial intelligence systems become increasingly integrated into critical 
 ## Papers
 The full description of the tool and its strength can be found in these papers.
 
-- SeDA[paper](https://62dac.conference-program.com/presentation/?id=RESEARCH189&sess=sess149){: .btn .btn--success}
+- SeDA[paper](https://62dac.conference-program.com/presentation/?id=RESEARCH189&sess=sess149){: .btn .btn--success .btn--small}
 
 
 # Tutorials

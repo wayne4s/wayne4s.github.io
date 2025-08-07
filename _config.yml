@@ -1,5 +1,5 @@
 # Page configuration
-title: Homepage
+title: HomePage # Title of the page
 title_separator: "-"
 locale: "en-US"
 url: "https://wayne4s.github.io"
