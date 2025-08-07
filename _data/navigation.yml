@@ -21,4 +21,6 @@ docs:
         url: "/blogs/2025-first-blog"
       - title: "Simulators"
         url: "/blogs/simulators"
+      - title: "Trustworthy AI"
+        url: "/blogs/trustworthy-ai"
 
