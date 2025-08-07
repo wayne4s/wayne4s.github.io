@@ -11,7 +11,7 @@ permalink: /blogs/trustworthy-ai
 - [x] [arXiv 2025] **AI Safety vs. AI Security: Demystifying the Distinction and Boundaries.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2506.18932) [![](https://img.shields.io/badge/slides-E29135)](https://zhiqlin.github.io/file/talks/AI_Safety_Security_July_17_2025.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/7k6RR4BMl7gcROFfzWhJjg)
 
 <div align="center">
-  <img src="./images/trustworthy-ai-demystify.png" alt="Trustworthy AI Framework" width="20%"/>
+  <img src="/pages/blogs/images/trustworthy-ai-demystify.png" alt="Trustworthy AI Framework" width="20%"/>
   <p style="font-family: 'Times New Roman';">AI Safety vs. AI Security</p>
 </div>
 
