@@ -27,7 +27,7 @@ As artificial intelligence systems become increasingly integrated into critical 
 <img src="/assets/images/homepage/security_safety_ai.jpg" alt="" width="40%"/>
 
 # Contact Us
-- For any questions about Security & Safety of AI, you can email: <xwminyang@gmail.com>
+- For any questions about Security & Safety of AI, you can email: [HERE](xwminyang@gmail.com)
 
 # Useful Links
 
