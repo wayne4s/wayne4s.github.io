@@ -11,7 +11,7 @@ permalink: /blogs/trustworthy-ai
 - [x] [arXiv 2025] **AI Safety vs. AI Security: Demystifying the Distinction and Boundaries.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2506.18932) [![](https://img.shields.io/badge/slides-E29135)](https://zhiqlin.github.io/file/talks/AI_Safety_Security_July_17_2025.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/7k6RR4BMl7gcROFfzWhJjg)
 
 <div align="center">
-  <img src="/pages/blogs/images/trustworthy-ai-demystify.png" alt="Trustworthy AI Framework" width="20%"/>
+  <img src="/pages/blogs/images/trustworthy-ai-demystify.png" alt="Trustworthy AI Framework" width="30%"/>
   <p style="font-family: 'Times New Roman';">AI Safety vs. AI Security</p>
 </div>
 
@@ -23,15 +23,15 @@ Building trustworthy AI requires addressing both AI safety and AI security conce
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center; width: 30%;">
-    <img src="./images/trustworthy-ai-full-stack-safety.png" alt="Full Stack Safety" style="width: 100%;"/>
+    <img src="/pages/blogs/images/trustworthy-ai-full-stack-safety.png" alt="Full Stack Safety" style="width: 100%;"/>
     <p style="font-family: 'Times New Roman';">Full Stack Safety</p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="./images/trustworthy-ai-agent-system.png" alt="Agent System" style="width: 100%;"/>
+    <img src="/pages/blogs/images/trustworthy-ai-agent-system.png" alt="Agent System" style="width: 100%;"/>
     <p style="font-family: 'Times New Roman';">Agent System</p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="./images/trustworthy-ai-agent-safety.png" alt="Agent Safety" style="width: 100%;"/>
+    <img src="/pages/blogs/images/trustworthy-ai-agent-safety.png" alt="Agent Safety" style="width: 100%;"/>
     <p style="font-family: 'Times New Roman';">Agent Safety</p>
   </div>
 </div>
@@ -45,7 +45,7 @@ This work defines the complete LLM lifecycle as encompassing data preparation, p
 
 
 <div align="center">
-  <img src="./images/trustworthy-ai-agent-anomalies.png" alt="Anomalies in agent systems" width="30%"/>
+  <img src="/pages/blogs/images/trustworthy-ai-agent-anomalies.png" alt="Anomalies in agent systems" width="30%"/>
   <p style="font-family: 'Times New Roman';">Agent Anomalies Detection</p>
 </div>
 
@@ -73,7 +73,7 @@ This work conducts a comprehensive survey on agent system operations, establishi
 - [ ] [NeurIPS 2024] **Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://proceedings.neurips.cc/paper_files/paper/2024/file/38c1dfb4f7625907b15e9515365e7803-Paper-Datasets_and_Benchmarks_Track.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/KulCxJm1wgz2fqorfuJ3Iw) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/usail-hkust/JailTrickBench.git)
 
 <div align="center">
-  <img src="./images/trustworthy-ai-jailbreak-JailTrickBench.png" alt="Anomalies in agent systems" width="30%"/>
+  <img src="/pages/blogs/images/trustworthy-ai-jailbreak-JailTrickBench.png" alt="Anomalies in agent systems" width="30%"/>
   <p style="font-family: 'Times New Roman'">Benchmarking jailbreak attacks on LLMs</p>
 </div>
 
