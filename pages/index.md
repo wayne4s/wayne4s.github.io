@@ -1,5 +1,5 @@
 ---
-title: "Security & Safety of AI"
+title: "AI Safety & Security"
 layout: splash
 permalink: /
 header:
@@ -7,13 +7,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/homepage/ai_coding.png
   actions:
-    - label: "GitHub"
-      url: "https://github.com/wayne4s"
-    - label: "Tutorials"
-      url: "/tutorials"
     - label: "Blogs"
       url: "/blogs"
-excerpt: "Computation Architecture for AI"
+    - label: "Tutorials"
+      url: "/tutorials"
+    - label: "GitHub"
+      url: "https://github.com/wayne4s"
+excerpt: "Secure Computing Architectures & Trustworthy AI Systems"
 toc: false
 ---
 
