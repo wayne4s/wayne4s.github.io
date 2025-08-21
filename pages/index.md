@@ -13,9 +13,11 @@ header:
       url: "/tutorials"
     - label: "GitHub"
       url: "https://github.com/wayne4s"
-excerpt: "Secure Computing Architectures & Trustworthy AI Systems"
+# excerpt: "Secure Computing Architectures & Trustworthy AI Systems"
+excerpt: "Advancing Trustworthy AGI Through Hardware-Software Co-design"
 toc: false
 ---
+
 
 # Overview
 Security & Safety of AI. 
