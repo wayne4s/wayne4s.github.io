@@ -25,7 +25,7 @@ Trusted AI Acceleration: Secure Architectures, Privacy, and Resilience in ML Har
 
 As artificial intelligence systems become increasingly integrated into critical applications across various domains, ensuring their security and safety has emerged as a paramount concern. AI security encompasses protecting machine learning models from adversarial attacks, data poisoning, and unauthorized access, while AI safety focuses on developing robust systems that behave predictably and align with human values. Our research addresses these challenges through comprehensive analysis of vulnerabilities, development of defensive mechanisms, and establishment of safety protocols that ensure AI systems operate reliably in real-world environments without causing unintended harm.
 
-# Research Interests
+# Research Interest
 
 His research interests lie in the area of computer architecture and systems, focusing on secure, energy-efficient and high-performance acceleration for machine learning (ML).
 
