@@ -1,5 +1,5 @@
 ---
-title: "AI Safety & Security"
+title: "Trustworthy AI"
 layout: splash
 permalink: /
 header:
@@ -27,7 +27,7 @@ As artificial intelligence systems become increasingly integrated into critical 
 
 # Research Interest
 
-His research interests lie in the area of computer architecture and systems, focusing on secure, energy-efficient and high-performance acceleration for machine learning (ML).
+His research interests lie in the area of computer architecture, computing systems, hardware security, and software/hardware co-design, focusing on secure, energy-efficient and high-performance acceleration for machine learning (ML).
 
 <!-- Below is a concise visual summary: -->
 <img src="/assets/images/homepage/security_safety_ai.jpg" alt="" width="40%"/>
