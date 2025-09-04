@@ -34,6 +34,11 @@ DRAMsim3 models the timing paramaters and memory controller behavior for several
 - [2024 MICRO] A Mess of Memory System Benchmarking, Simulation and Application Profiling. [![](https://img.shields.io/badge/code-B5739D)](https://github.com/bsc-mem/Mess-simulator)
 
 
+### NVSim
+
+- NVSim: A circuit-level performance, energy, and area model for emerging non-volatile memory. [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SEAL-UCSB/NVSim.git)
+
+
 ## DNN simulators
 
 - Scale-sim
