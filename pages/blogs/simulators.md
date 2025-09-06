@@ -21,6 +21,8 @@ It can model the area and power of the register files and the SRAM buffers.
 
 zsim is a fast x86-64 simulator, and its main goals are to be fast, simple, and accurate, with a focus on simulating memory hierarchies and large, heterogeneous systems. 
 
+----
+
 ## Memory Simulators
 
 ### DRAMSim3
@@ -39,10 +41,33 @@ DRAMsim3 models the timing paramaters and memory controller behavior for several
 - NVSim: A circuit-level performance, energy, and area model for emerging non-volatile memory. [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SEAL-UCSB/NVSim.git)
 
 
+### DRAMA
+
+- Deep Neural Network Memory Performance and Throughput Modeling and Simulation Framework. [![](https://img.shields.io/badge/code-B5739D)](https://github.com/DRAMA-technion/DRAMA)
+
+
+---
+
 ## DNN simulators
 
-- Scale-sim
-- Timeloop
+### Scale-sim
+
+
+### Timeloop
+
+### Gemmini
+-  Gemmini: Enabling Systematic Deep-Learning Architecture Evaluation via Full-Stack Integration. [![](https://img.shields.io/badge/code-B5739D)](https://github.com/ucb-bar/gemmini)
+
+The Gemmini project is developing a full-system, full-stack DNN hardware exploration and evaluation platform. Gemmini enables architects to make useful insights into how different components of the system and software stack (outside of just the accelerator itself) interact to affect overall DNN performance. Gemmini was developed using the *Chisel* hardware description language.
+
+### STONNE
+- STONNE: Enabling Cycle-Level Microarchitectural Simulation for DNN Inference Accelerators. [![](https://img.shields.io/badge/code-B5739D)](https://github.com/stonne-simulator/stonne)
+
+STONNE (Simulation TOol of Neural Network Engines) is a cycle-level, highly-modular and highly-extensible simulation framework that can plug into any high-level DNN framework as an accelerator device and perform end-to-end evaluation of flexible accelerator microarchitectures with sparsity support, running complete DNN models.
+
+### mNPUsim
+
+- mNPUsim: Evaluating the Effect of Sharing Resources in Multi-core NPUs.  [![](https://img.shields.io/badge/code-B5739D)](https://github.com/casys-kaist/mNPUsim)
 
 
 
